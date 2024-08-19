@@ -13,7 +13,7 @@ Urban Routes é uma plataforma interativa desenvolvida no Bootcamp da TripleTen.
   
 **Ferramentas que utilizei:**
 
-- ***Xmind:*** Utilizado para criar o mapa mental, organizando visualmente as funcionalidades e fluxos de trabalho.
+- ***Drawio:*** Utilizado para criar o mapa mental, organizando visualmente as funcionalidades e fluxos de trabalho.
 - ***Navegadores Web (Chrome, Opera):*** Utilizados para testar a interface e funcionalidades em diferentes ambientes e resoluções de tela.
 - ***Jira:*** Utilizado para gerenciar e rastrear bugs encontrados durante os testes, facilitando a correção e o acompanhamento dos problemas.
 - ***Figma:*** Ferramenta para revisar e testar o design da interface, garantindo que a implementação seguisse fielmente os requisitos visuais e de usabilidade.
